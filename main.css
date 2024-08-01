@@ -1,0 +1,64 @@
+body
+{
+    background-color: burlywood;
+    text-decoration-color: black;
+    padding: .40em;
+    
+}
+nav
+{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    padding: 1.25em 10em;
+    text-decoration: dashed;
+    background-color: cornsilk;
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+}
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+}
+/*p
+{
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+} */
+h3
+{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: darkslategray;
+}
+button
+{
+    background-color: darksalmon;
+    border-color: aqua;
+    border-radius: 50px;
+    border-style: dotted;
+
+}
+#memeImage
+{
+    margin-right: 200px;
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+}
